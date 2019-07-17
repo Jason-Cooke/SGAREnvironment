@@ -149,7 +149,7 @@ added and retrieved.
 
 Version 0.1.9
 
-* SGLayer objects will now update records as they are recieved from the SGLocaitonService.
+* SGLayer objects will now update records as they are received from the SGLocaitonService.
 * SGRecord defines a new property that stores user defined properties.
 * SGOAuth objects can be restored from a save point.
 * Nearby searchs can be done using a Geohash or a lat/lon coordinate paired with a radius.
